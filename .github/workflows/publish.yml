@@ -7,13 +7,11 @@ on:
 
 jobs:
   release:
-    if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
