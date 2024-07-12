@@ -9,7 +9,9 @@
 		"lint": "biome check ./src",
 		"lint:fix": "npm run lint -- --write"
 	},
-	"files": ["dist"],
+	"files": [
+		"dist"
+	],
 	"keywords": [],
 	"author": "Chris Manganaro",
 	"license": "GNU GENERAL PUBLIC LICENSE",
