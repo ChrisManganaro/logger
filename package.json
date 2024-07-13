@@ -1,5 +1,5 @@
 {
-	"name": "@chris.manganaro/cm-logger",
+	"name": "@cm/logger",
 	"version": "1.0.0",
 	"description": "",
 	"main": "index.js",
@@ -10,7 +10,7 @@
 		"lint:fix": "npm run lint -- --write"
 	},
 	"files": ["dist"],
-	"keywords": [],
+	"keywords": ["logger", "node"],
 	"author": "Chris Manganaro",
 	"license": "GNU GENERAL PUBLIC LICENSE",
 	"publishConfig": {
