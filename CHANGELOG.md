@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/ChrisManganaro/logger/compare/v1.1.0...v1.2.0) (2024-07-13)
+
+
+### Features
+
+* rename ([8fc452e](https://github.com/ChrisManganaro/logger/commit/8fc452e55ef97ab7d56483a0e9053cdb1144e085))
+
 # [1.1.0](https://github.com/ChrisManganaro/logger/compare/v1.0.0...v1.1.0) (2024-07-12)
 
 
